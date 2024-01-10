@@ -35,9 +35,9 @@ Referensi: https://www.freecodecamp.org/news/how-to-setup-virtual-environments-i
 
 ### Clone Project
 - cd automate_report
-- git clone https://github.com/AnggaPradiktas/digitalskola.git
+- git clone https://github.com/axeltanjung/automate_report.git
 - balik repo project-1 atau pakai fullpath
 - source automate_report/bin/activate atau ~/Documents/project-1/automate_report/bin/activate
 
 ### Global Env
-- Just git clone https://github.com/AnggaPradiktas/digitalskola.git
+- Just git clone https://github.com/axeltanjung/automate_report.git
